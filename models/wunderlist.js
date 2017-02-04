@@ -15,7 +15,7 @@ WunderList.listMapping = [
   { name: 'shopping', id: 131628923, tags: ['#alexa', '#grocery'] },
   { name: 'costco', id: 135899995, tags: ['#alexa', '#costco'] },
   { name: 'target', id: 154876370, tags: ['#alexa', '#target'] },
-  { name: 'amazon', id: 135477954, tags: ['#alexa', '#target'] },
+  { name: 'amazon', id: 135477954, tags: ['#alexa', '#amazon'] },
   { name: 'todo',     id: 130110831, tags: ['#alexa', '#test'] }
 ];
 
