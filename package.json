@@ -18,6 +18,6 @@
     "wunderlist": "^0.1.3"
   },
   "engines": {
-    "node": "6.1.0"
+    "node": "6.11.1"
   }
 }
